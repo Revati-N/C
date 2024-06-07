@@ -10,7 +10,8 @@ int main()
     char grade = 'O';
     bool isFEMALE = true;
 
-    cout << "My name is " << name <<". My age is " <<ages << ". My CGPA is "<< gpa<<". My grade is "<<grade<<endl;
+    cout << "My name is " << name <<endl<< "My age is " <<ages << ".\nMy CGPA is "<< gpa<<endl<<"My grade is "<<grade<<endl;
+    cout <<"I can put a tab"<<"\t"<<" like i did just now";
 
     return 0;
 }
