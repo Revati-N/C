@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; //We use namespace while declaring/naming variables
 
 int main()
 {
